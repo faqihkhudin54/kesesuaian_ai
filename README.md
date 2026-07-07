@@ -1,2 +1,1 @@
-# kesesuaian_ai
-Project Skripsi
+# ai_model
